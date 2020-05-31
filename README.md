@@ -1,6 +1,8 @@
 # Awesome Kubernetes CRD
 A curated list of awesome Kubernetes custom resource definition, CRD, or operators with CRD.
 
+## [Awesome deployment](https://shibuiwilliam.github.io/awesome-k8s-crd/)
+
 ## What is CRD?
 Custom resource definition is your original extension of the Kubernetes API.
 
